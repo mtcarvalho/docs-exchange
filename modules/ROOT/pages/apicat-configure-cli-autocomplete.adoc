@@ -1,6 +1,6 @@
 = Configuring Command Autocompletion
 
-The `api-catalog-cli autocomplete` command enables you to configure completion for API Catalog CLI commands. 
+The `api-catalog autocomplete` command enables you to configure completion for API Catalog CLI commands. 
 
 To configure command autocompletion:
 
